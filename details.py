@@ -1,0 +1,10 @@
+college=(input("enter a student college"))
+name=(intput("enter a student name"))
+usn=(input("enter a student usn"))
+course=(input("enter a student course"))
+address=(input("enetr a student address"))
+
+printf("student details:")
+print(f"student's college:{college}")
+print(f"student's name:{name}")
+print(f"student's usn:{usn}")
